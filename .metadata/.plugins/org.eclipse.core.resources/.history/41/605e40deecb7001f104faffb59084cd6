@@ -1,0 +1,5 @@
+package com.metadata;
+
+public class MetaDataDAO {
+
+}

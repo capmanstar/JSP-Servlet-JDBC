@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Coupon and Product project</title>
+</head>
+<body>
+<h1>Coupon and Product project</h1>
+<pre>
+<a href="createCoupon.jsp">Create coupon</a>
+
+<a href="findCoupon.jsp">Find coupon</a>
+
+<a href="createProduct.jsp">Create Product</a>
+</pre>
+</body>
+</html>

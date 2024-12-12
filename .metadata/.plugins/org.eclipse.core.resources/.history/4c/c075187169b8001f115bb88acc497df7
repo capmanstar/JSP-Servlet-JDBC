@@ -1,0 +1,17 @@
+package com.darshan.cnp.utility;
+
+import java.sql.Connection;
+import javax.naming.Context;
+import javax.naming.InitialContext;
+
+public class ConnectionUtil {
+
+	public static Connection getConnection() {
+		Connection con = null;
+		Context context = new InitialContext();
+		
+		
+		
+		return con;
+	}
+}

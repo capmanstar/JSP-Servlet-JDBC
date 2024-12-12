@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void extracted(HttpServletRequest request, HttpServletResponse response) throws IOException &apos; from &apos;com.darshan.cnp.controller.CouponController.doPost(...)&apos; to &apos;com.darshan.cnp.controller.CouponController&apos;&#x0D;&#x0A;- Original project: &apos;CouponAndProductProject&apos;&#x0D;&#x0A;- Method name: &apos;extracted&apos;&#x0D;&#x0A;- Destination type: &apos;com.darshan.cnp.controller.CouponController&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;extracted&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src\/main\/java&lt;com.darshan.cnp.controller{CouponController.java" name="extracted" replace="false" selection="910 533" stamp="1734019125944" version="1.0" visibility="2"/>
+</session>

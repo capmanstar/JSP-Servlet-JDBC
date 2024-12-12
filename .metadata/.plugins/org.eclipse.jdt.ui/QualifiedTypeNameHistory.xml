@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="system.proxies.FileDocument"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdfparser.PDFParser"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.cos.COSDocument"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="com.sap.db.util.FileUtils"/>
+    <fullyQualifiedTypeName name="org.apache.commons.io.IOUtils"/>
+    <fullyQualifiedTypeName name="com.sap.db.util.org.java_websocket.util.Base64.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+    <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
+    <fullyQualifiedTypeName name="java.nio.ByteBuffer"/>
+    <fullyQualifiedTypeName name="future.proxies.FutureJournal"/>
+    <fullyQualifiedTypeName name="com.rabbitmq.client.BuiltinExchangeType"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="com.mendix.core.Core"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.text.PDFTextStripper"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.apache.xmlbeans.impl.xb.xsdschema.ListDocument.List"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.text.TextPosition"/>
+    <fullyQualifiedTypeName name="excelimporter.proxies.Template"/>
+    <fullyQualifiedTypeName name="excelimporter.proxies.constants.Constants"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ooxml.util.SAXHelper"/>
+    <fullyQualifiedTypeName name="org.apache.xmlbeans.impl.common.SAXHelper"/>
+    <fullyQualifiedTypeName name="excelimporter.proxies.ReferenceDataHandling"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="AverageCalculator"/>
+    <fullyQualifiedTypeName name="javax.servlet.jsp.tagext.TagSupport"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="ResultHandler"/>
+    <fullyQualifiedTypeName name="javax.servlet.jsp.JspWriter"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,14 @@
+127.0.0.1 - - [03/Dec/2024:21:42:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Dec/2024:21:42:58 +0530] "GET /SecurityDemo/simple.jsp HTTP/1.1" 401 686
+0:0:0:0:0:0:0:1 - myuser [03/Dec/2024:21:43:08 +0530] "GET /SecurityDemo/simple.jsp HTTP/1.1" 403 688
+0:0:0:0:0:0:0:1 - - [03/Dec/2024:21:43:09 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [03/Dec/2024:21:47:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - myuser [03/Dec/2024:21:47:47 +0530] "GET /SecurityDemo/simple.jsp HTTP/1.1" 200 142
+127.0.0.1 - - [03/Dec/2024:21:56:10 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Dec/2024:21:56:11 +0530] "GET /SecurityDemo/simple.jsp HTTP/1.1" 404 735
+127.0.0.1 - - [03/Dec/2024:21:56:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Dec/2024:21:56:49 +0530] "GET /SecurityDemo/simple.jsp HTTP/1.1" 200 340
+0:0:0:0:0:0:0:1 - myuser [03/Dec/2024:21:56:59 +0530] "POST /SecurityDemo/j_security_check HTTP/1.1" 303 -
+0:0:0:0:0:0:0:1 - myuser [03/Dec/2024:21:56:59 +0530] "GET /SecurityDemo/simple.jsp HTTP/1.1" 200 142
+127.0.0.1 - - [03/Dec/2024:22:42:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Dec/2024:22:42:06 +0530] "GET /ConnectionPooling/ConnectionPoolingServlet HTTP/1.1" 500 29

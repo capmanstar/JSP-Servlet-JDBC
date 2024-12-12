@@ -1,0 +1,5 @@
+package com.darshan.cnp.model;
+
+public class Coupon {
+
+}
